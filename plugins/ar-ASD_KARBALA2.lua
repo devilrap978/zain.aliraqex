@@ -2,7 +2,7 @@
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
 ▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
+▀▄ ▄▀     BY SAJAD NOORI (@zzaa6)          ▀▄ ▄▀ 
 ▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
 ▀▄ ▄▀          help2  : مساعدة2            ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
@@ -12,7 +12,7 @@ do
 function run(msg, matches)
 local reply_id = msg['id']
 local S = [[ 
-قبل لتشوف الاوامر تابع قناة البوت @S94IQ ❤️💋
+قبل لتشوف الاوامر تابع قناة البوت @zaintyh
 
 ✔️تعمل جميع الاوامر بدون وضع / او !
 ا🔸➖🔹➖🔸➖🔹➖🔸
@@ -38,9 +38,9 @@ local S = [[
 ا🔸➖🔹➖🔸➖🔹➖🔸
 🃏🔺للأستفسار:- راسل المطور :- ☢⚜ 
 ✋🏿👇🏿
-#Dev : @SAJJADNOORI
-#Dev_bot : @S94_BOT
-#Dev_Channel : @S94IQ
+#Dev : @zzaa6
+#Dev_bot : @Zain121bot
+#Dev_Channel : @zaintyh
  ]]
 reply_msg(reply_id, S, ok_cb, false)
 end
