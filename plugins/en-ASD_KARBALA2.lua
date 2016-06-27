@@ -11,7 +11,7 @@ do
 
 function run(msg, matches)
   return [[ 
-It is shown by the channel orders @S94IQ ❤️💋
+It is shown by the channel orders @zaintyh ❤️💋
 
 ✔️All orders to operate without setting / او !
 🔸➖🔹➖🔸➖🔹➖🔸
@@ -37,9 +37,9 @@ It is shown by the channel orders @S94IQ ❤️💋
 ا🔸➖🔹➖🔸➖🔹➖🔸
 🃏🔺For inquiries:- Contact Developer :- ☢⚜ 
 ✋🏿👇🏿
-#Dev : @SAJJADNOORI
-#Dev_bot : @S94_BOT
-#Dev_Channel : @S94IQ
+#Dev : @AILXXZ
+#Dev_bot : @zainty
+#Dev_Channel : @zaintyh
  ]]
 
 end
