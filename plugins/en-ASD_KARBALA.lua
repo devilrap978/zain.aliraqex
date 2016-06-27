@@ -1,23 +1,27 @@
---[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
-▀▄ ▄▀          Dev  : المطور               ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
+do 
 
-do
+local function run(msg, matches) 
 
-function run(msg, matches)
-  return '❣ Source 🛢 ASD_KARBALA 📁\n❣ Version 📋 v1.2\n❣ Location 💻\n \nhttps://github.com/SAJJAD94/ASD_KARBALA.git \n❣  #Dev 🕵🔧 : \n❣ #Dev : @SAJJADNOORI \n❣ #Dev_bot @S94_BOT \n❣ #Dev_Channel @S94IQ'
-end
-return {
-  patterns = {
-    "^version"
+if ( msg.text ) then
+
+  if ( msg.to.type == "user" ) then
+
+   return "للتحدث مع المطور اضغط على المعرف التالي \n @AILXXZ \n او اذا محظور اضغط هنا \n @zaintyh\n قنأة البوت \n @zaintyh 👾"
+     
+  end 
+  
+end 
+
+-- #DEV @zaintyh
+
+end 
+
+return { 
+  patterns = { 
+       "(.*)$"
   }, 
-  run = run 
-}
+  run = run, 
+} 
 
-end
+end 
+-- By @AILXXZ
