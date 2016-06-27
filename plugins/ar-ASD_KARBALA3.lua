@@ -2,7 +2,7 @@
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
 ▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
+▀▄ ▄▀     BY SAJAD NOORI (@AILXXZ)         ▀▄ ▄▀ 
 ▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
 ▀▄ ▄▀          dev1  : dev                 ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
@@ -17,8 +17,8 @@ return [[
 يعمل البوت على مجموعات سوبر تصل الى5k عضو 🔷
 
      ≪تم صنع البوت بواسطة المطور≫
-                      『 @SAJJADNOORI 』
-            🔹#Dev #SAJJADNOORI🔹
+                      『 @AILXXZ 』
+            🔹#AILXXZ
 ]]
 end
 
